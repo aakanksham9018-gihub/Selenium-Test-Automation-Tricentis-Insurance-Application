@@ -139,32 +139,20 @@ Automates:
 
 ---
 
-## Page Class Responsibilities
+## 📄 Page Class Responsibilities
 
-Page Class	                | Responsibility
-----------------------------------------------------------------
-HomePage	                  | Vehicle category navigation
-VehicleDataPage	           | Common vehicle information
-AutomobileVehicleDataPage  | Automobile details
-TruckVehicleDataPage	      | Truck details
-MotorcycleVehicleDataPage 	| Motorcycle details
-CamperVehicleDataPage	     | Camper details
-InsurantDataPage	          | Customer information
-ProductDataPage           	| Insurance product selection
-PriceOptionPage	           | Insurance plan selection
-SendQuotePage	             | Quote submission
-
-Page Class		Responsibility
-HomePage		Vehicle category navigation
-VehicleDataPage		Common vehicle information
-AutomobileVehicleDataPage	Automobile details
-TruckVehicleDataPage	Truck details
-MotorcycleVehicleDataPage	Motorcycle details
-CamperVehicleDataPage	Camper details
-InsurantDataPage	Customer information
-ProductDataPage	Insurance product selection
-PriceOptionPage	Insurance plan selection
-SendQuotePage	Quote submission
+| Page Class | Responsibility |
+|------------|----------------|
+| `HomePage` | Vehicle category navigation |
+| `VehicleDataPage` | Common vehicle information |
+| `AutomobileVehicleDataPage` | Handles automobile-specific vehicle details |
+| `TruckVehicleDataPage` | Handles truck-specific vehicle details |
+| `MotorcycleVehicleDataPage` | Handles motorcycle-specific vehicle details |
+| `CamperVehicleDataPage` | Handles camper-specific vehicle details |
+| `InsurantDataPage` | Enters customer/insurant information |
+| `ProductDataPage` | Selects insurance product details |
+| `PriceOptionPage` | Selects the insurance price plan |
+| `SendQuotePage` | Enters quote details and submits the quote |
 
 ---
 
