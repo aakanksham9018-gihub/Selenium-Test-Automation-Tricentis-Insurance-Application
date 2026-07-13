@@ -5,10 +5,10 @@
 This project is a **Selenium WebDriver automation framework** developed using **Java** to automate the **Tricentis Vehicle Insurance Application**.
 
 The framework automates end-to-end insurance quote workflows for different vehicle categories:
-•	Automobile
-•	Truck
-•	Motorcycle
-•	Camper
+- Automobile
+- Truck
+- Motorcycle
+- Camper
 
 The project follows the **Page Object Model (POM)** design pattern to create a clean, reusable, and maintainable automation framework.
 
