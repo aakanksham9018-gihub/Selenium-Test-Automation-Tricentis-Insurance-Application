@@ -135,6 +135,7 @@ The framework automates:
 
 ### Automobile Insurance
 Test Class: AutomobileTest.java
+
 Automates:
 - Navigate to Automobile insurance
 - Enter vehicle details
@@ -145,6 +146,7 @@ Automates:
 
 ### Truck Insurance
 Test Class: TruckTest.java
+
 Automates:
 - Truck selection
 - Vehicle specification entry
@@ -154,6 +156,7 @@ Automates:
 
 ### Motorcycle Insurance
 Test Class: MotorcycleTest.java
+
 Automates:
 - Motorcycle selection
 - Model entry
@@ -163,8 +166,9 @@ Automates:
 
 ### Camper Insurance
 Test Class: CamperTest.java
+
 Automates:
--Camper selection
+- Camper selection
 - Vehicle details
 - Payload details
 - Weight details
