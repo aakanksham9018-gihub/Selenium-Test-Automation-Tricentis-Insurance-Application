@@ -51,7 +51,7 @@ Each webpage is represented by a separate Java class containing:
 
 This keeps test cases clean and improves maintainability.
 
-```
+---
 
 ## 📂 Project Structure
 
