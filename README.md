@@ -21,11 +21,11 @@ https://sampleapp.tricentis.com/101/
 
 The main objectives of this automation framework are:
 
-Automate vehicle insurance quote workflows
-Reduce manual testing effort
-Create reusable page components
-Maintain clean separation between test logic and page elements
-Demonstrate scalable Selenium automation practices.
+- Automate vehicle insurance quote workflows
+- Reduce manual testing effort
+- Create reusable page components
+- Maintain clean separation between test logic and page elements
+- Demonstrate scalable Selenium automation practices.
 
 ---
 
