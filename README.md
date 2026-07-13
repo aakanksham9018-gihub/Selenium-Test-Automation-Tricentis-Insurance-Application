@@ -51,6 +51,39 @@ Each webpage is represented by a separate Java class containing:
 
 This keeps test cases clean and improves maintainability.
 
+```
+
+## 📂 Project Structure
+
+```text
+Selenium-Test-Automation-Tricentis-Insurance-Application
+│
+├── src
+│   ├── base
+│   │   └── BaseTest.java
+│   │
+│   ├── pages
+│   │   ├── HomePage.java
+│   │   ├── VehicleDataPage.java
+│   │   ├── AutomobileVehicleDataPage.java
+│   │   ├── TruckVehicleDataPage.java
+│   │   ├── MotorcycleVehicleDataPage.java
+│   │   ├── CamperVehicleDataPage.java
+│   │   ├── InsurantDataPage.java
+│   │   ├── ProductDataPage.java
+│   │   ├── AutomobileProductDataPage.java
+│   │   ├── PriceOptionPage.java
+│   │   └── SendQuotePage.java
+│   │
+│   └── tests
+│       ├── AutomobileTest.java
+│       ├── TruckTest.java
+│       ├── MotorcycleTest.java
+│       └── CamperTest.java
+│
+└── README.md
+```
+
 ---
 
 ## Key Features
