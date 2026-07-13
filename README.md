@@ -154,6 +154,18 @@ ProductDataPage           	| Insurance product selection
 PriceOptionPage	           | Insurance plan selection
 SendQuotePage	             | Quote submission
 
+Page Class		Responsibility
+HomePage		Vehicle category navigation
+VehicleDataPage		Common vehicle information
+AutomobileVehicleDataPage	Automobile details
+TruckVehicleDataPage	Truck details
+MotorcycleVehicleDataPage	Motorcycle details
+CamperVehicleDataPage	Camper details
+InsurantDataPage	Customer information
+ProductDataPage	Insurance product selection
+PriceOptionPage	Insurance plan selection
+SendQuotePage	Quote submission
+
 ---
 
 ## Setup Instructions
