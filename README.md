@@ -45,9 +45,9 @@ The framework follows the Page Object Model (POM) design pattern.
 
 Each webpage is represented by a separate Java class containing:
 
-Page locators
-Page actions
-Reusable methods
+- Page locators
+- Page actions
+- Reusable methods
 
 This keeps test cases clean and improves maintainability.
 
@@ -173,15 +173,15 @@ Automates:
 Page Class	                | Responsibility
 ----------------------------------------------------------------
 HomePage	                  | Vehicle category navigation
-VehicleDataPage	            | Common vehicle information
-AutomobileVehicleDataPage   | Automobile details
+VehicleDataPage	           | Common vehicle information
+AutomobileVehicleDataPage  | Automobile details
 TruckVehicleDataPage	      | Truck details
 MotorcycleVehicleDataPage 	| Motorcycle details
-CamperVehicleDataPage	      | Camper details
+CamperVehicleDataPage	     | Camper details
 InsurantDataPage	          | Customer information
 ProductDataPage           	| Insurance product selection
-PriceOptionPage	            | Insurance plan selection
-SendQuotePage	              | Quote submission
+PriceOptionPage	           | Insurance plan selection
+SendQuotePage	             | Quote submission
 
 ---
 
