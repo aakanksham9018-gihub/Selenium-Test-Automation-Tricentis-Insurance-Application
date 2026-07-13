@@ -51,35 +51,7 @@ Each webpage is represented by a separate Java class containing:
 
 This keeps test cases clean and improves maintainability.
 
----
-
-## Framework Structure
-
-├─src
-│ │
-│ ├── base
-│ │    └── BaseTest.java
-│ │
-│ ├── pages
-│ │    ├── HomePage.java
-│ │    ├── VehicleDataPage.java
-│ │    ├── AutomobileVehicleDataPage.java
-│ │    ├── TruckVehicleDataPage.java
-│ │    ├── MotorcycleVehicleDataPage.java
-│ │    ├── CamperVehicleDataPage.java
-│ │    ├── InsurantDataPage.java
-│ │    ├── ProductDataPage.java
-│ │    ├── AutomobileProductDataPage.java
-│ │    ├── PriceOptionPage.java
-│ │    ├── SendQuotePage.java
-│ │ 
-│ └── tests
-│      ├── AutomobileTest.java
-│      ├── CamperTest.java
-│      ├── MotorcycleTest.java
-│      └── TruckTest.java
-└── README.md
-
+├── src │ │ │ ├── base │ │ └── BaseTest.java │ │ │ ├── pages │ │ │ │ │ ├── HomePage.java │ │ ├── VehicleDataPage.java │ │ ├── AutomobileVehicleDataPage.java │ │ ├── TruckVehicleDataPage.java │ │ ├── MotorcycleVehicleDataPage.java │ │ ├── CamperVehicleDataPage.java │ │ ├── InsurantDataPage.java │ │ ├── ProductDataPage.java │ │ ├── AutomobileProductDataPage.java │ │ ├── PriceOptionPage.java │ │ └── SendQuotePage.java │ │ │ └── tests │ │ │ ├── AutomobileTest.java │ ├── TruckTest.java │ ├── MotorcycleTest.java │ └── CamperTest.java │ └── README.md
 ---
 
 ## Key Features
