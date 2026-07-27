@@ -30,10 +30,10 @@ The main objectives of this automation framework are:
 ---
 
 ## Tech Stack 
+
 - Java 
 - Selenium WebDriver 4.39.0 
 - TestNG 7.11.0 
-- Maven 
 - Eclipse IDE 
 - Google Chrome
 
@@ -200,7 +200,6 @@ Automates:
 Before running the project, install:
 
 - Java JDK 8 or above (Java 11 or later is recommended) 
-- Maven 
 - Google Chrome 
 - Eclipse IDE or IntelliJ IDEA 
 - Internet connection (for Selenium Manager to download the appropriate browser driver if needed)
@@ -215,7 +214,7 @@ Before running the project, install:
 git clone https://github.com/aakanksham9018-gihub/Selenium-Test-Automation-Tricentis-Insurance-Application.git 
 ```
 2. Open the project in Eclipse or IntelliJ IDEA.
-3. Ensure all project dependencies are available (if you later migrate to Maven, allow Maven to download them).
+3. Ensure Selenium WebDriver and TestNG libraries are configured in the project build path.
 4. Make sure Google Chrome is installed on your system.
 5. Run any of the following test classes as a Java Application:
 - AutomobileTest.java
